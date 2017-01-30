@@ -33,7 +33,13 @@ DEBUG = 1
 TESTRUN = 0
 PROFILE = 0
 
-def main(argv=None):
+
+
+
+
+
+
+def WISSAM(argv=None):
     '''Command line options.'''
     
     program_name = os.path.basename(sys.argv[0])
